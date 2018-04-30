@@ -6,6 +6,7 @@ This is a document to help me, with learning Git and the commands keeping it han
 
 $ git checkout filename_that_needs_to_be_changed
 
-> To show the changes of files not yet staged
+This is for my information -
 
-$ git diff
+![Git Learning](./images/GitLearning.jpeg)  
+
